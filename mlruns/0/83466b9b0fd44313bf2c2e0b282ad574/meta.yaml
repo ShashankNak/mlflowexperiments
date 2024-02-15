@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shash/Desktop/My%20Courses/MLFLOW/mlruns/0/83466b9b0fd44313bf2c2e0b282ad574/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 83466b9b0fd44313bf2c2e0b282ad574
+run_name: able-toad-541
+run_uuid: 83466b9b0fd44313bf2c2e0b282ad574
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708020061678
+status: 1
+tags: []
+user_id: shash
